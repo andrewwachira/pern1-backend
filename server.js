@@ -86,8 +86,4 @@ app.delete("/all-members/:id",async (req,res)=>{
 	
 })
 
-
-
-
-
 app.listen(PORT,console.log("Server started at port 5000"));
